@@ -586,3 +586,82 @@ Continuous Improvement
 ```
 
 ---
+
+# Current Focus
+
+```yaml
+learning:
+  - Data Structures & Algorithms
+  - System Design
+  - Generative AI
+  - Large Language Models (LLMs)
+  - AI Agents
+  - AWS Cloud
+
+building:
+  - AI-Powered Full Stack Applications
+  - Scalable Web Platforms
+  - Modern Developer Tools
+  - Production-Ready Software Solutions
+
+exploring:
+  - Next.js Ecosystem
+  - Advanced React Patterns
+  - TypeScript
+  - Cloud Architecture
+  - Software Engineering Best Practices
+
+open_to:
+  - Software Engineering Internships
+  - Freelance Opportunities
+  - Open Source Collaboration
+  - Research Projects
+  - Technical Collaborations
+  - Hackathons
+```
+
+---
+
+# Let's Connect
+
+<p align="center">
+
+<a href="mailto:prawinkumar514@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-prawinkumar514%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prawin-kumar-974a2334b">
+<img src="https://img.shields.io/badge/LinkedIn-Prawin%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PrawinKumar514">
+<img src="https://img.shields.io/badge/GitHub-PrawinKumar514-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://prawin-portfolio-website.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# Thanks for Visiting
+
+<p align="center">
+
+### **Passionate about Technology. Building Solutions that Matter.**
+
+</p>
+
+<p align="center">
+
+*"Great software is built through curiosity, continuous learning, and the determination to solve meaningful problems."*
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:312E81,70:6D28D9,100:7C3AED&height=140&section=footer"/>
+</p>
