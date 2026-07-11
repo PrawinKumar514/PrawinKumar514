@@ -172,10 +172,10 @@ An intelligent full-stack food ordering platform designed for educational instit
 Campus Bites demonstrates my ability to architect and build an end-to-end AI-enabled software product that combines authentication, cloud databases, payments, analytics, responsive design, and intelligent user interactions into a cohesive production-ready application.
 
 **Repository:**
-https://github.com/PrawinKumar514/campus-bites
+https://github.com/PrawinKumar514/CampusBites
 
 **Live Demo:**
-https://prawin-campus-bites.vercel.app
+https://prawin-campus-bites.vercel.app/
 
 </details>
 
@@ -213,7 +213,7 @@ Chronosphere showcases frontend engineering principles including component-drive
 https://github.com/PrawinKumar514/chronosphere-world-clock
 
 **Live Demo:**
-https://prawin-chronosphere-world-clock.vercel.app
+https://prawin-chronosphere-world-clock.vercel.app/
 
 </details>
 
@@ -248,7 +248,7 @@ A comprehensive enterprise-style campus management system that centralizes acade
 This project demonstrates large-scale application design involving multiple user roles, secure data management, academic workflows, relational databases, and modular backend architecture suitable for educational institutions.
 
 **Repository:**
-https://github.com/PrawinKumar514/ApexPlanet-Internship-task-5
+https://github.com/PrawinKumar514/Smart-Campus-Management-System
 
 </details>
 
@@ -318,7 +318,7 @@ SocialApp is a full-stack social networking application where users can create p
 This project strengthened my understanding of backend engineering, RESTful APIs, authentication workflows, frontend-backend integration, and scalable social application development.
 
 **Live Demo:**
-https://socialmedia-app-23hp.onrender.com
+https://socialmedia-app-23hp.onrender.com/
 
 </details>
 
@@ -350,6 +350,9 @@ ModernStore is a complete e-commerce web application that enables users to brows
 ### Impact
 
 ModernStore demonstrates practical implementation of real-world commerce systems including authentication, inventory management, order processing, secure access control, and relational database modeling.
+
+**Repository:**
+https://github.com/PrawinKumar514/SocialApp
 
 **Live Demo:**
 https://prawin-modernstore.onrender.com
