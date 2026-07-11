@@ -253,3 +253,148 @@ https://github.com/PrawinKumar514/ApexPlanet-Internship-task-5
 </details>
 
 ---
+
+
+
+<details>
+<summary><strong>📇 ContactHub — Modern Contact Management Platform</strong></summary>
+
+<br>
+
+ContactHub is a modern full-stack contact management application that enables users to organize personal and professional contacts through a clean dashboard powered by Next.js 15, MongoDB Atlas, and TypeScript.
+
+### Engineering Highlights
+
+* Modern Next.js App Router architecture
+* Server Actions for backend operations
+* Cloud database integration with MongoDB Atlas
+* Full CRUD functionality
+* Responsive dashboard interface
+* Type-safe development using TypeScript
+
+| Category       | Technologies                                           |
+| :------------- | :----------------------------------------------------- |
+| **Frontend**   | Next.js 15, React, TypeScript, Tailwind CSS, ShadCN UI |
+| **Backend**    | Next.js Server Actions                                 |
+| **Database**   | MongoDB Atlas, Mongoose ODM                            |
+| **Deployment** | Vercel                                                 |
+
+### Impact
+
+ContactHub demonstrates modern SaaS application development using scalable project architecture, cloud databases, reusable UI components, and production-ready development practices.
+
+**Repository:**
+https://github.com/PrawinKumar514/contacthub
+
+</details>
+
+---
+
+<details>
+<summary><strong>💬 SocialApp — Full Stack Social Networking Platform</strong></summary>
+
+<br>
+
+SocialApp is a full-stack social networking application where users can create posts, build profiles, interact with other users, send friend requests, follow creators, and engage through comments, likes, and notifications.
+
+### Engineering Highlights
+
+* Django-powered backend
+* REST API architecture
+* Authentication & authorization
+* Media upload management
+* Social networking workflows
+* Responsive user interface
+
+| Category       | Technologies                  |
+| :------------- | :---------------------------- |
+| **Frontend**   | HTML5, CSS3, JavaScript       |
+| **Backend**    | Django, Django REST Framework |
+| **Database**   | SQLite                        |
+| **Deployment** | Render                        |
+
+### Impact
+
+This project strengthened my understanding of backend engineering, RESTful APIs, authentication workflows, frontend-backend integration, and scalable social application development.
+
+**Live Demo:**
+https://socialmedia-app-23hp.onrender.com
+
+</details>
+
+---
+
+<details>
+<summary><strong>🛒 ModernStore — Full Stack E-Commerce Platform</strong></summary>
+
+<br>
+
+ModernStore is a complete e-commerce web application that enables users to browse products, manage shopping carts, place orders, maintain profiles, and securely manage the complete purchasing workflow through a responsive interface.
+
+### Engineering Highlights
+
+* Complete shopping cart workflow
+* Product & inventory management
+* Secure authentication
+* Order lifecycle implementation
+* AJAX-powered interactions
+* Responsive user experience
+
+| Category           | Technologies                 |
+| :----------------- | :--------------------------- |
+| **Frontend**       | HTML5, CSS3, JavaScript      |
+| **Backend**        | Django                       |
+| **Database**       | SQLite                       |
+| **Authentication** | Django Authentication System |
+
+### Impact
+
+ModernStore demonstrates practical implementation of real-world commerce systems including authentication, inventory management, order processing, secure access control, and relational database modeling.
+
+**Live Demo:**
+https://prawin-modernstore.onrender.com
+
+</details>
+
+---
+
+# Professional Experience
+
+## Full Stack Web Development Intern
+
+**ApexPlanet Software Pvt. Ltd.**
+**May 2026 – July 2026**
+
+Developed full-stack web applications through project-based software development while integrating responsive frontend interfaces with backend services. Worked on feature implementation, debugging, application optimization, and collaborative development under mentor guidance while following software engineering best practices.
+
+**Technologies**
+
+`React` • `Node.js` • `Express.js` • `HTML5` • `CSS3` • `JavaScript` • `Git` • `GitHub`
+
+---
+
+## Web Development Intern
+
+**Thiranex – Skill Development & Future Tech**
+**June 2026 – July 2026**
+
+Developed responsive web interfaces using modern frontend technologies, built reusable UI components, improved application performance, and collaborated on industry-oriented development tasks while following clean coding practices.
+
+**Technologies**
+
+`React` • `JavaScript` • `HTML5` • `CSS3` • `Git` • `GitHub`
+
+---
+
+## Web Development Intern
+
+**SYNTEXHUB**
+**June 2026 – July 2026**
+
+Participated in industry-focused web development projects, designed responsive user interfaces, implemented reusable frontend components, and gained practical experience with collaborative software development workflows and version control.
+
+**Technologies**
+
+`React` • `JavaScript` • `HTML5` • `CSS3` • `Git` • `GitHub`
+
+---
