@@ -1,8 +1,4 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=6D28D9&text=Prawin%20Kumar%20C&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Full%20Stack%20Developer&descAlignY=58" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+AI+%26+Full+Stack+Developer;Building+Intelligent+Software+Solutions;Engineering+Scalable+Web+Applications;Passionate+about+Technology.;Building+Solutions+that+Matter." />
 </p>
 
