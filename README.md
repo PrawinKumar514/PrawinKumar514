@@ -502,3 +502,87 @@ Participated in industry-focused web development projects, designed responsive u
 Throughout my academic journey, I have consistently focused on building practical software solutions rather than limiting my learning to coursework. My internships, certifications, hackathons, and independent projects have helped me strengthen my understanding of software engineering, full stack development, cloud technologies, and applied artificial intelligence while continuously improving my problem-solving and product development skills.
 
 ---
+
+
+
+
+# GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PrawinKumar514&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PrawinKumar514&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrawinKumar514&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=PrawinKumar514&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrawinKumar514&theme=tokyo-night&hide_border=true&radius=16" />
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrawinKumar514/PrawinKumar514/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrawinKumar514/PrawinKumar514/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/PrawinKumar514/PrawinKumar514/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+# Development Snapshot
+
+| Focus Area                 | Current Experience                                                        |
+| :------------------------- | :------------------------------------------------------------------------ |
+| 💻 Frontend Engineering    | React, Next.js, Tailwind CSS, TypeScript, Responsive UI                   |
+| ⚙️ Backend Development     | Node.js, Express.js, Django, PHP, REST APIs                               |
+| 🗄️ Database Engineering   | MongoDB, MySQL, PostgreSQL, SQLite, Firebase Firestore                    |
+| 🤖 Artificial Intelligence | LLM Applications, Prompt Engineering, Google Gemini API                   |
+| ☁️ Cloud & Deployment      | Firebase, Vercel, Render, Netlify                                         |
+| 🏗️ Software Engineering   | Clean Architecture, System Design Fundamentals, Performance Optimization  |
+| 🚀 Product Development     | AI Platforms, Enterprise Systems, SaaS Applications, E-Commerce Solutions |
+
+---
+
+# Development Workflow
+
+```text
+Ideation
+     │
+     ▼
+Planning & System Design
+     │
+     ▼
+Frontend Development
+     │
+     ▼
+Backend & Database Integration
+     │
+     ▼
+Testing & Debugging
+     │
+     ▼
+Cloud Deployment
+     │
+     ▼
+Continuous Improvement
+```
+
+---
