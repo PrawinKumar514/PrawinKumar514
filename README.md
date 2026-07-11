@@ -398,3 +398,107 @@ Participated in industry-focused web development projects, designed responsive u
 `React` • `JavaScript` • `HTML5` • `CSS3` • `Git` • `GitHub`
 
 ---
+
+
+
+
+# Engineering Highlights
+
+<p align="center">
+
+| Metric |                       Achievement                       |
+| :----: | :-----------------------------------------------------: |
+|   🎓   |        **B.Tech Computer Science & Engineering**        |
+|   🏫   | **SRM Institute of Science and Technology, Vadapalani** |
+|   📈   |                    **CGPA: 9.7 / 10**                   |
+|   💻   |                **15+ Software Projects**                |
+|   🚀   |              **3 Professional Internships**             |
+|   🏆   |                    **3+ Hackathons**                    |
+|   📜   |            **10 Professional Certifications**           |
+|   🤖   |             **AI & Full Stack Development**             |
+
+</p>
+
+---
+
+# Achievements
+
+| Recognition                | Details                                                                                                                        |
+| :------------------------- | :----------------------------------------------------------------------------------------------------------------------------- |
+| 🎓 Academic Excellence     | Maintained a **9.7 CGPA** while actively pursuing software engineering projects and internships.                               |
+| 💻 Software Development    | Designed and developed **15+ real-world software projects** spanning AI, Full Stack, Enterprise Systems, SaaS, and E-Commerce. |
+| 🚀 Industry Experience     | Successfully completed **3 professional internships** focused on Web and Full Stack Development.                               |
+| 🏆 Technical Participation | Participated in **3+ Hackathons**, strengthening collaboration, problem-solving, and rapid product development skills.         |
+| 🤖 AI Engineering          | Built practical AI-powered applications using **Large Language Models, Prompt Engineering, and Google Gemini API**.            |
+| ☁️ Modern Development      | Gained hands-on experience with cloud deployment, Firebase, MongoDB Atlas, modern React, and Next.js ecosystems.               |
+
+---
+
+# Certifications
+
+## SAP
+
+* ✅ Describing the Payables Management Process in SAP S/4HANA
+* ✅ Stay Certified: Back-End Developer (ABAP Cloud)
+
+---
+
+## Oracle Academy
+
+* ✅ Database Programming with SQL
+* ✅ Database Foundations
+
+---
+
+## Google Cloud
+
+* ✅ Introduction to Generative AI Studio
+
+---
+
+## Wadhwani Foundation
+
+* ✅ Introduction to Artificial Intelligence
+
+---
+
+## NPTEL (IIT Kanpur)
+
+* ✅ Introduction to Programming in C
+
+---
+
+## upGrad
+
+* ✅ Data Structures & Algorithms – Series I
+
+---
+
+## Infosys Springboard
+
+* ✅ Introduction to Unix
+* ✅ Introduction to Computer Architecture
+
+---
+
+# Technical Activities
+
+* 🏆 Internal Hackathon 2025 — SRM Institute of Science and Technology
+* 🏆 ACE Hacks 2025 — ACE, SRM Institute of Science and Technology
+* 👥 DNS HackElite Working Committee — SRM Institute of Science and Technology
+* 👥 Flash Build Working Committee — SRM Institute of Science and Technology
+
+---
+
+# Leadership & Volunteering
+
+* 🤝 Defence & Technology Show 2025 Volunteer — Swatantra Foundation & FIMA
+* 🌱 Community Service Volunteer — Green Voice Global NGO
+
+---
+
+# Professional Development
+
+Throughout my academic journey, I have consistently focused on building practical software solutions rather than limiting my learning to coursework. My internships, certifications, hackathons, and independent projects have helped me strengthen my understanding of software engineering, full stack development, cloud technologies, and applied artificial intelligence while continuously improving my problem-solving and product development skills.
+
+---
