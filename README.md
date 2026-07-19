@@ -1,3 +1,16 @@
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prawin%20Kumar%20C&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20%26%20Full%20Stack%20Developer&descAlignY=62&descSize=16)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Prawin+%F0%9F%91%8B;Software+Engineer+%7C+AI+%26+Full+Stack+Developer;Building+Intelligent+%26+Scalable+Web+Apps;Turning+Ideas+into+Production-Ready+Software)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=PrawinKumar514&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/PrawinKumar514)
+[![Gmail](https://img.shields.io/badge/Gmail-prawinkumar514%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prawinkumar514@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prawin%20Kumar%20C-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prawin-kumar-c-974a2334b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70a5fd?style=flat-square&logo=vercel&logoColor=white)](https://prawin-portfolio-website.vercel.app/)
+
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+AI+%26+Full+Stack+Developer;Building+Intelligent+Software+Solutions;Engineering+Scalable+Web+Applications;Passionate+about+Technology.;Building+Solutions+that+Matter." />
 </p>
@@ -13,7 +26,7 @@
   <a href="https://prawin-portfolio-website.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/prawin-kumar-974a2334b">
+  <a href="https://www.linkedin.com/in/prawin-kumar-c-974a2334b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBTX4FeyzSwmaGe0XN0ywRQ%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:prawinkumar514@gmail.com">
