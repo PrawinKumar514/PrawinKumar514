@@ -529,7 +529,7 @@ Throughout my academic journey, I have consistently focused on building practica
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PrawinKumar514/PrawinKumar514/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/PrawinKumar514/PrawinKumar514/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
