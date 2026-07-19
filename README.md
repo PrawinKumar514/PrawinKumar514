@@ -636,7 +636,7 @@ open_to:
 </a>
 
 <a href="https://www.linkedin.com/in/prawin-kumar-974a2334b">
-<img src="https://img.shields.io/badge/LinkedIn-Prawin%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://www.linkedin.com/in/prawin-kumar-c-974a2334b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBTX4FeyzSwmaGe0XN0ywRQ%3D%3D"/>
 </a>
 
 <a href="https://github.com/PrawinKumar514">
