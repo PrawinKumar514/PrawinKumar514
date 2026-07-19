@@ -1,7 +1,6 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:0891B2&height=200&section=header&text=Prawin%20Kumar%20C&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
-
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prawin%20Kumar%20C&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20and%20Full%20Stack%20Developer&descAlignY=62&descSize=16)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Prawin+%F0%9F%91%8B;Building+Intelligent+Software+Solutions;Engineering+Scalable+Web+Applications;Turning+Ideas+into+Production-Ready+Software)](https://git.io/typing-svg)
 
 <br>
