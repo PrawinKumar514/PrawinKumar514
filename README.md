@@ -511,44 +511,27 @@ Throughout my academic journey, I have consistently focused on building practica
 
 
 
-# GitHub Analytics
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PrawinKumar514&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PrawinKumar514&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrawinKumar514&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrawinKumar514&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
 
----
+<br><br>
 
-# GitHub Trophies
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrawinKumar514&theme=tokyo-night&hide_border=true&radius=16" width="100%" alt="Contribution Graph" />
 
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=PrawinKumar514&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" />
-</p>
+</div>
 
 ---
 
-# Contribution Activity
+# 🐍 Contribution Snake
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrawinKumar514&theme=tokyo-night&hide_border=true&radius=16" />
-</p>
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/PrawinKumar514/PrawinKumar514/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
-# Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrawinKumar514/PrawinKumar514/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrawinKumar514/PrawinKumar514/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/PrawinKumar514/PrawinKumar514/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
+</div>
 
 ---
 
