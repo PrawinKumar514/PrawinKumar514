@@ -1,47 +1,41 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prawin%20Kumar%20C&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20%26%20Full%20Stack%20Developer&descAlignY=62&descSize=16)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:0891B2&height=200&section=header&text=Prawin%20Kumar%20C&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Prawin+%F0%9F%91%8B;Software+Engineer+%7C+AI+%26+Full+Stack+Developer;Building+Intelligent+%26+Scalable+Web+Apps;Turning+Ideas+into+Production-Ready+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Prawin+%F0%9F%91%8B;Building+Intelligent+Software+Solutions;Engineering+Scalable+Web+Applications;Turning+Ideas+into+Production-Ready+Software)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=PrawinKumar514&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/PrawinKumar514)
-[![Gmail](https://img.shields.io/badge/Gmail-prawinkumar514%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prawinkumar514@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prawin%20Kumar%20C-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prawin-kumar-c-974a2334b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-70a5fd?style=flat-square&logo=vercel&logoColor=white)](https://prawin-portfolio-website.vercel.app/)
+<br>
+
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-4F46E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CGPA-9.7%20%2F%2010-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Class%20of-2028-4338CA?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu%2C%20India-3730A3?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+<br><br>
+
+<a href="https://prawin-portfolio-website.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/prawin-kumar-c-974a2334b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:prawinkumar514@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/PrawinKumar514">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=PrawinKumar514&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/PrawinKumar514?label=Followers&style=for-the-badge&color=4F46E5" />
+<img src="https://img.shields.io/github/stars/PrawinKumar514?affiliations=OWNER&label=Stars&style=for-the-badge&color=6D28D9" />
 
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+AI+%26+Full+Stack+Developer;Building+Intelligent+Software+Solutions;Engineering+Scalable+Web+Applications;Passionate+about+Technology.;Building+Solutions+that+Matter." />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-4F46E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CGPA-9.7%20%2F%2010-6D28D9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Class%20of-2028-4338CA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu%2C%20India-3730A3?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://prawin-portfolio-website.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/prawin-kumar-c-974a2334b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBTX4FeyzSwmaGe0XN0ywRQ%3D%3D">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:prawinkumar514@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/PrawinKumar514">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrawinKumar514&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/PrawinKumar514?label=Followers&style=for-the-badge&color=4F46E5" />
-  <img src="https://img.shields.io/github/stars/PrawinKumar514?affiliations=OWNER&label=Stars&style=for-the-badge&color=6D28D9" />
-</p>
 
 ---
 
