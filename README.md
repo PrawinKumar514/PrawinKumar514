@@ -618,8 +618,8 @@ open_to:
 <img src="https://img.shields.io/badge/Gmail-prawinkumar514%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/prawin-kumar-974a2334b">
-<img src="https://www.linkedin.com/in/prawin-kumar-c-974a2334b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBTX4FeyzSwmaGe0XN0ywRQ%3D%3D"/>
+<a href="https://www.linkedin.com/in/prawin-kumar-c-974a2334b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/PrawinKumar514">
